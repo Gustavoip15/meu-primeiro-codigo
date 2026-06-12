@@ -5,5 +5,4 @@ icsgustavopereira07@gmail.com
 
 git config --global user.name "Gustavoip15"
 
-git config --global user.email "icsgustavopereira07@gmail.com
-"
+git config --global user.email "icsgustavopereira07@gmail.com"
